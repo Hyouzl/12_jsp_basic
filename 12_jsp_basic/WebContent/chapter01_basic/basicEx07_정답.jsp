@@ -27,9 +27,9 @@
 		else if (i == 1) {
 	%>
 			<form>
-				<input type="checkbox">HTML5
-				<input type="checkbox">CSS3
-				<input type="checkbox">JAVASCRIPT
+				<input type="checkbox" name="chklanguage" value="html5">>HTML5
+				<input type="checkbox" name="chklanguage" value="css3">CSS3
+				<input type="checkbox" name="chklanguage" value="javascpript">JAVASCRIPT
 			</form>
 			
 	<%		
@@ -37,9 +37,9 @@
 		else if (i == 2) {
 	%>
 			<form>
-				<input type="radio">HTML5
-				<input type="radio">CSS3
-				<input type="radio">JAVASCRIPT
+				<input type="radio" name="radiolanguage" value="html5">HTML5
+				<input type="radio" name="radiolanguage" value="css3">CSS3
+				<input type="radio" name="radiolanguage" value="javascript">JAVASCRIPT
 			</form>
 	<%
 		}
