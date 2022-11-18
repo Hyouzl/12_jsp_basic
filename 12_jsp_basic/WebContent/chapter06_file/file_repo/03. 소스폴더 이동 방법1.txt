@@ -1,0 +1,13 @@
+소스 이동
+
+1) 프로젝트 전체를 이동매체로 이동
+ > 이클립스
+ > File태그
+ > Import 태그
+ > General 클릭
+ > Existing Projects into WorkSpace 클릭
+ > 이동한 프로젝트 클릭
+
+2) 특정 소스만 이동
+
+ > 특정 소스를 위치에 맞게 drag & drop

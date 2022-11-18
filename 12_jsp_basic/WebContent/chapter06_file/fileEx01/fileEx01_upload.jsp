@@ -28,7 +28,7 @@
 			 */
 			
 			// 파일의 저장 경로는 웹서비스의 접근 경로가 아닌 물리적인 실제 경로를 적어주어야 한다.
-			String location = "D:\\abu\\19_web_shared_folder\\workspace\\12_jsp_basic\\WebContent\\chapter06_file\\file_repo";
+			String location = "C:\\Users\\19_web_hyr\\git\\12_jsp_basic\\12_jsp_basic\\WebContent\\chapter06_file\\file_repo";
 			 
 			/*
 				8bit     > 1Byte
