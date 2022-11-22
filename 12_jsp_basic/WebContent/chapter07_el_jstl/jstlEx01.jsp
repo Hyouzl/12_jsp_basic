@@ -43,6 +43,23 @@
 			<c:out value="" />		
 					
 	--%>
+	
+	
+	
+	<h3>1,2,3) 변수생성, 삭제 , 출력</h3>
+	<c:set var="name1" value="팀버너스리"></c:set>
+
+	<p>${name1 },  <c:out value="${name1 }"/></p> 
+	
+	<c:set var="name2" value="Timothy John Berners Lee"/>
+	<p>${name2 }, <c:out value="${name2 }"/></p>
+	<hr>
+	
+	<c:remove var="name1"/>
+	
+	<p>${name1 }</p>
+	<p>${name2 }</p>
+
 
 
 
