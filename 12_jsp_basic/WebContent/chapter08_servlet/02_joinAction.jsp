@@ -31,7 +31,7 @@
 			</tr>
 			
 			<tr>
-				<td colspan="2" align="center"><input type="button" value="로그인"></td>
+				<td colspan="2" align="center"><input type="button" value="로그인" onclick="location.href='login'"></td>
 			</tr>
 		</table>
 	</div>	
